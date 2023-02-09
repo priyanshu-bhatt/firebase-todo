@@ -1,0 +1,50 @@
+.back{
+    /* background-color: aliceblue; */
+   padding: 50px;
+   width: 230px;
+   height: 625px;
+    background-color:white;
+    border: groove ;
+    text-align: center;
+    
+}
+.all{
+    
+    position: relative;
+    width: 200px;
+    font-size: large;
+    padding: 100px;
+    margin-left: -100px;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    cursor: pointer;
+}
+.header{
+    position: relative;
+    color:white;
+    background-color: black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    margin-right: 50px;
+    width: 230px;
+    
+    
+}
+.today:hover{
+    color:blueviolet;
+    
+    font-size: 22px;
+    transform: rotate(10deg);
+}
+.inbox:hover{
+    color:blueviolet;
+    
+    font-size: 22px;
+    transform: rotate(10deg);
+}
+.next:hover{
+    color:blueviolet;
+    
+    font-size: 22px;
+    transform: rotate(10deg);
+}
